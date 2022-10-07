@@ -6,7 +6,7 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 
 public class VentanaRegistroEstudiante extends ventanamodel {
-    private JLabel textoEncabezado,textoNombre,textoApellido, textoRut, textoNromat;
+    private JLabel textoEncabezado,textoNombre,textoApellido, textoRut, textoNromat,textoCARR;
     private JTextField camponombre, campoApellido, campoRut,campoNromat;
     private JButton btnRegistrar, btnCancelar;
 
